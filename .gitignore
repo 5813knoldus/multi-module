@@ -1,0 +1,7 @@
+/stringmanipulation/.idea/
+*/target
+*.iml
+ stringmanipulation/modify-string/string-api/target/classes/com/knoldus/StringManipulation.class
+ stringmanipulation/modify-string/string-impl/target/classes/com/knoldus/App.class
+stringmanipulation/modify-string/string-api/target/
+stringmanipulation/modify-string/string-impl/target/
