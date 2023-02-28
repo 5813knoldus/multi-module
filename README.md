@@ -1,5 +1,5 @@
 # multi-module
-This project structure is created by using terminal
+# This project structure is created by using terminal
 commands : 
 
 mvn archtype:generate
